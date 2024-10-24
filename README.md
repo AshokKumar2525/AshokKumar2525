@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ashok Kumar.Malineni
-- 🌱 I’m currently learning DEEP LEARNING
-- 💞️ I’m looking to collaborate on DATA SCIENCE AND MACHINE LEARNING PROJECTS
+- 👋 #**Hi, I’m Ashok Kumar.Malineni**
+- 🌱 I’m currently learning **DEEP LEARNING**
+- 💞️ I’m looking to collaborate on **DATA SCIENCE AND MACHINE LEARNING PROJECTS**
 - 📫 How to reach me ashokkumarmalineni25@gmail.com
 - ⚡ Fun fact: Why write 100 lines when you can do it in 10… or 1
 
