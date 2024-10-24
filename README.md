@@ -1,4 +1,4 @@
-- 👋 **<h1>Hi, I’m Ashok Kumar.Malineni</h1>**
+-**<h1> 👋 Hi, I’m Ashok Kumar.Malineni</h1>**
 - 🌱 I’m currently learning **DEEP LEARNING**
 - 💞️ I’m looking to collaborate on **DATA SCIENCE AND MACHINE LEARNING PROJECTS**
 - 📫 How to reach me ashokkumarmalineni25@gmail.com
