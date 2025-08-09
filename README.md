@@ -58,9 +58,9 @@
 ---
 ## 🏅 GitHub Achievements
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - First PR merged">
----
-## 🏅 **Kaggle Achievements** 
 
+---
+## 🏅 Kaggle Achievements
 - 🥇 Ranked in Top 10% in [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic) competition  
 - 📊 **Kaggle Profile:** ![Kaggle](https://www.kaggle.com/ashokkumarmalineni)
 <!-- - 📈 **Kernels & Notebooks:** Published X+ notebooks with practical solutions and tutorials   -->
