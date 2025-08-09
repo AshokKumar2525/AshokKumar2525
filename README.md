@@ -58,7 +58,12 @@
 ---
 ## 🏅 GitHub Achievements
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - First PR merged">
-
+---
+## 🏅 Kaggle Achievements
+- 🥇 Ranked in Top 10% in [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic) competition  
+- 📊 **Kaggle Profile:** [[![Kaggle](https://img.shields.io/badge/Kaggle-YourUsername-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F9c37cceb9f493bb678dd909e988b1456%2FBadge-1.svg?generation=1727462477436270&alt=media)](https://www.kaggle.com/ashokkumarmalineni) 
+<!-- - 📈 **Kernels & Notebooks:** Published X+ notebooks with practical solutions and tutorials   -->
+- 🛠️ Skills: ML Algorithms, Data Visualization, Ensemble Methods, Deep Learning  
 ---
 ## 📊 GitHub Stats
 ![Ashok's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshokKumar2525&show_icons=true&theme=radical)  
