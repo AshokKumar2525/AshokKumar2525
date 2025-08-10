@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I’m Ashok Kumar Malineni</h1>
+<h1 align="center">👋 Hello, I’m Ashok Kumar Malineni</h1>
 <h3 align="center">🚀 AI Explorer | Data Science Enthusiast | Machine Learning Practitioner</h3>
 
 🌱 **Currently Exploring:** AI, Computer Vision, and Natural Language Processing  
