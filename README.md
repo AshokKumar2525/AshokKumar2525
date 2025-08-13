@@ -40,7 +40,7 @@
 ---
 ## 🏅 GitHub Achievements
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - First PR merged">
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw.png" width="80" title="Quickdraw - closed issue within 5 min of opened">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw - closed within 5 min of opening">
 
 ---
 ## 🏅 Kaggle Achievements
