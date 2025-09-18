@@ -14,6 +14,21 @@
 - 📊 Multiple ML models implemented including KNN, Decision Trees, Ensemble Learning, and Computer Vision projects  
 
 ---
+## 📊 GitHub Stats & Activity
+
+| | |
+|---|---|
+| ![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshokKumar2525&theme=react-dark&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshokKumar2525&show_icons=true&theme=radical) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshokKumar2525&layout=compact&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com/?user=AshokKumar2525&theme=radical&hide_border=true) |
+
+---
+
+### ⏳ WakaTime Stats
+> *(Coding activity tracked via WakaTime)*  
+<!-- WakaTime badge will auto-update if you add a WakaTime key -->
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=AshokKumar2525&layout=compact&theme=radical)
+
+---
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashokmalineni25) &nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashok-kumar-malineni-4974872ab) 
