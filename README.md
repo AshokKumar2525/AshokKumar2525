@@ -19,14 +19,13 @@
 | | |
 |---|---|
 | ![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshokKumar2525&theme=react-dark&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshokKumar2525&show_icons=true&theme=radical) |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshokKumar2525&layout=compact&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com/?user=AshokKumar2525&theme=radical&hide_border=true) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshokKumar2525&layout=compact&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com?user=AshokKumar2525&theme=radical&hide_border=true) |
 
 ---
-
 ### 🌐 Language Distribution
-![Language Breakdown](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshokKumar2525&theme=radical)
-![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshokKumar2525&theme=radical)
-![Ashok's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshokKumar2525&show_icons=true&theme=radical) 
+| | |
+|---|---|
+| ![Language Breakdown](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshokKumar2525&theme=radical) | ![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshokKumar2525&theme=radical) |
 
 ---
 
