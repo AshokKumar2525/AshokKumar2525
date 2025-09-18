@@ -23,16 +23,10 @@
 
 ---
 
-### ⏳ WakaTime Stats
-> *(Coding activity tracked via WakaTime)*  
-<!-- WakaTime badge will auto-update if you add a WakaTime key -->
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=AshokKumar2525&layout=compact&theme=radical)
-
----
-
 ### 🌐 Language Distribution
 ![Language Breakdown](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshokKumar2525&theme=radical)
 ![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshokKumar2525&theme=radical)
+![Ashok's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshokKumar2525&show_icons=true&theme=radical) 
 
 ---
 
@@ -69,9 +63,6 @@
 <!-- - 📈 **Kernels & Notebooks:** Published X+ notebooks with practical solutions and tutorials   -->
 - 🛠️ **Skills:** ML Algorithms, Data Visualization, Ensemble Methods, Deep Learning
 - **Badges:** <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" width="60" title="1 Year On Kaggle"> <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F9c37cceb9f493bb678dd909e988b1456%2FBadge-1.svg?generation=1727462477436270&alt=media" width="60" title="Compititor"> <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" width=60 title="Python Coder"> <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F28e0e70842ce6972f4d68f5b6ecd549a%2FBadge-12.svg?generation=1727462988946700&alt=media" width="60" title="Dataset Creater"> <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F5d31f6794c65cc3ed7e29768cd541a53%2FBadge-17.svg?generation=1727463142252997&alt=media" width="60" title="Dataset Tagger">
----
-## 📊 GitHub Stats
-![Ashok's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshokKumar2525&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshokKumar2525&layout=compact&theme=radical)
 
 ---
 
