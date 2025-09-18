@@ -19,7 +19,7 @@
 | | |
 |---|---|
 | ![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshokKumar2525&theme=react-dark&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshokKumar2525&show_icons=true&theme=radical) |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshokKumar2525&layout=compact&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com/?user=AshokKumar2525&theme=radical&hide_border=true&mode=daily&sections=total,current,longest&card) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshokKumar2525&layout=compact&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com/?user=AshokKumar2525) |
 
 ---
 ### 🌐 Language Distribution
