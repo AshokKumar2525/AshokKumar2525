@@ -30,6 +30,12 @@
 
 ---
 
+### 🌐 Language Distribution
+![Language Breakdown](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshokKumar2525&theme=radical)
+![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshokKumar2525&theme=radical)
+
+---
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashokmalineni25) &nbsp;&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashok-kumar-malineni-4974872ab) 
 
